@@ -1,7 +1,7 @@
 # Hello-World
 First Repository practice
 
-#About me
+A little about myself
 My name is Josh Yeager
 I am 32 years old
 I live in florida
